@@ -1,7 +1,9 @@
 # Image-Classification
 
 🖼️ Image Classification Project with Machine Learning 🤖
+
 This GitHub repository is a comprehensive resource for building, training, and deploying models that can accurately classify images across various categories.
+
 🔍 Key Components:
 
 -Dataset Exploration: Explore diverse image datasets, gaining insights into the distribution of classes and the challenges posed by different types of visual data.
